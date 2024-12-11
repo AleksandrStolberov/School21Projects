@@ -1,0 +1,3 @@
+C:/School 21/Libft/cmake-build-debug/CMakeFiles/Libft.dir
+C:/School 21/Libft/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/School 21/Libft/cmake-build-debug/CMakeFiles/rebuild_cache.dir
